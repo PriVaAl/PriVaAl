@@ -1,6 +1,8 @@
-# Hi, I'm Priscilla Valverde Álvarez 👋
+# Priscilla Valverde Álvarez
 
-**Associate Software Engineer at Cinch | Software Development student at BYU-Idaho**
+Hello, GitHub! 👋
+
+I'm Priscilla, an Associate Software Engineer at Cinch and a Software Development student at Brigham Young University-Idaho, interested in web development, backend systems, and machine learning. Welcome to my GitHub profile!
 📍 San José, Costa Rica
 
 ## About Me
@@ -9,9 +11,11 @@ I build and debug web applications, working across frontend, backend, API, and d
 
 Before moving into software, I spent about 20 years in education, psychopedagogy, NLP, and coaching. That background shapes how I work: I collaborate well, communicate clearly, and build solutions around real people's needs.
 
-I'm also exploring **big data, machine learning, and artificial intelligence**.
+- 🌱 I'm currently learning: software engineering at BYU-Idaho, plus big data, machine learning, and artificial intelligence
+- 🎯 My goals are to: build reliable, maintainable applications and explore how AI can solve real problems
+- 💬 Ask me about: React, Django, debugging, and moving from education and coaching into software
 
-## Skills & Technologies
+## Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -25,8 +29,8 @@ I'm also exploring **big data, machine learning, and artificial intelligence**.
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Languages & frameworks:** Python, Django, JavaScript, TypeScript, React, Next.js, C#, SQL, HTML, CSS, Handlebars
-- **Data & tools:** PostgreSQL, Snowflake, API integration
+- **Proficient in:** Python, Django, JavaScript, TypeScript, React, Next.js, C#, SQL, HTML, CSS, Handlebars
+- **Skills:** PostgreSQL, Snowflake, API integration
 - **Practices:** Debugging, testing, root-cause analysis, code reviews
 - **Learning:** Big data, machine learning, AI
 
@@ -48,7 +52,11 @@ I'm also exploring **big data, machine learning, and artificial intelligence**.
 ![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriVaAl&show_icons=true&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriVaAl&layout=compact)
 
-## Let's Connect
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/priscilla-valverde-alvarez/) profile
+- 📧 priscilla.valverde@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-valverde-alvarez/)
-📧 priscilla.valverde@gmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
